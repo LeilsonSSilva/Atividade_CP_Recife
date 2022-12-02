@@ -1,0 +1,44 @@
+header{
+    border: 2px solid black;
+    font-size: 2rem;
+    background-image: url(a-cidade-letreiro.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: lightgray;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 40mm;
+}
+
+h1{
+    color: blue;
+    font-size: 5rem;
+}
+
+h2{
+    color: rgb(228, 6, 6);
+    font-size: 3rem;
+}
+
+h3{
+    color: green;
+    font-size: 2rem;
+}
+
+p{
+    font-size: 2rem;
+    text-align: justify;
+}
+
+div{
+    font-size: 1rem;
+    color: rgb(7, 7, 131);
+}
+
+span{
+    color: forestgreen;
+}
