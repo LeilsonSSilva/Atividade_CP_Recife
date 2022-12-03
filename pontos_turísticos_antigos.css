@@ -7,11 +7,12 @@ header{
     background-color: lightgray;
 }
 
-ul{
+.links{
     list-style: none;
     display: flex;
     justify-content: space-around;
     margin-left: 40mm;
+    font-size: 2rem;
 }
 
 h1{
@@ -34,9 +35,9 @@ p{
     text-align: justify;
 }
 
-div{
+#fim{
     font-size: 1rem;
-    color: rgb(7, 7, 131);
+    color: rgb(131, 69, 7);
 }
 
 span{

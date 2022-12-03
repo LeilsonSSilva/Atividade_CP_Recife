@@ -7,10 +7,11 @@ header{
     background-color: lightgray;
 }
 
-ul{
+.links{
     list-style: none;
     display: flex;
     justify-content: space-evenly;
+    
 }
 
 h1{
@@ -28,11 +29,12 @@ p{
     text-align: justify;
 }
 
-#rodape{
+.fim{
     font-size: 1rem;
     color: rgb(131, 69, 7);
-    justify-content: space-around;
-    
+    display: flex;
+    flex-direction: column;
+      
 }
 
 span{
